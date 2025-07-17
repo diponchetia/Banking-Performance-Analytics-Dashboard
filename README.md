@@ -46,16 +46,6 @@ The dataset comprises comprehensive banking information, organized into the foll
 
 ---
 
-## Implementation Workflow
-
-```mermaid
-graph LR
-A[Raw Data Extraction] --> B[Python Data Cleaning & Transformation]
-B --> C[MySQL Database Loading]
-C --> D[Exploratory Data Analysis (EDA)]
-D --> E[Power BI Dashboard Development]
-E --> F[Actionable Business Insights Generation]
-```
 
 ---
 
